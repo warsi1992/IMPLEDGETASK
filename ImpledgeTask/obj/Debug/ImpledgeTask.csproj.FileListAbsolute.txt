@@ -1,0 +1,17 @@
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\ImpledgeTask.exe.config
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\ImpledgeTask.exe
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\ImpledgeTask.pdb
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.csproj.AssemblyReference.cache
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.csproj.CoreCompileInputs.cache
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.exe
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.pdb
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.abstractions.dll
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.assert.dll
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.core.dll
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.execution.desktop.dll
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.abstractions.xml
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.assert.xml
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.core.xml
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\bin\Debug\xunit.execution.desktop.xml
+C:\Users\gulam.waris\Desktop\ImpledgeTask\ImpledgeTask\obj\Debug\ImpledgeTask.csproj.CopyComplete
